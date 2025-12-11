@@ -130,7 +130,7 @@ export default function Artist() {
             <div className="lg:hidden">
                 <div className="relative w-full h-[48vh] flex flex-col">
                     <Image
-                        src="/artist.webp"
+                        src="/artist/artist.webp"
                         alt=""
                         fill
                         className="object-contain object-top pr-6 pl-6 pt-4"

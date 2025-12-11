@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex-1 items-center justify-center flex">
           <div className="
               max-h-full max-w-full flex flex-col
-              items-end">
+              items-end mr-[275px]">
               <Image
                 src="/accueil.webp"
                 alt="Présentation"
